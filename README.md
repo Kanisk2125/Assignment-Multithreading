@@ -15,5 +15,7 @@ This repo contains code examples to help understand key multithreading concepts:
 
 ## How to Run
 ```terminal
-javac <FileName>.java
-java <MainClassName>
+Do the below for all the java files in the folder:-
+
+1.  javac <FileName>.java
+2.  java <MainClassName>
